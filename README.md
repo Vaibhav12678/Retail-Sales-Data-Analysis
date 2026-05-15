@@ -123,4 +123,3 @@ Retail-Sales-Data-Analysis/
 │   └── dashboard.png
 │
 ├── README.md
-└── requirements.txt
